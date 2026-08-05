@@ -202,7 +202,7 @@ This project was built to practice:
 
 Ahmed Yasser
 
-Computer Science Student
+Computer Science Graduate
 
 AI & Software Engineering Enthusiast
 
