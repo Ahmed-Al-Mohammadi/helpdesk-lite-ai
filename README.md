@@ -60,7 +60,7 @@ The system is designed to support future AI integration, including:
 
 The landing page introduces the HelpDesk Lite platform with a modern SaaS interface, highlights its main features, and provides users with a clear call-to-action.
 
-![Landing Page](docs/screenshots/landing.png)
+![Landing Page](Code/helpdesk-lite-ai/docs/screenshots/landing.png)
 
 ---
 
@@ -68,7 +68,7 @@ The landing page introduces the HelpDesk Lite platform with a modern SaaS interf
 
 A simple role-based login interface allowing users to access the system as either an Employee or an IT Administrator.
 
-![Login Page](docs/screenshots/login.png)
+![Login Page](Code/helpdesk-lite-ai/docs/screenshots/login.png)
 
 ---
 
@@ -76,7 +76,7 @@ A simple role-based login interface allowing users to access the system as eithe
 
 Employees can quickly create IT support requests through a clean, intuitive, and responsive form.
 
-![Submit Ticket](docs/screenshots/submit.png)
+![Submit Ticket](Code/helpdesk-lite-ai/docs/screenshots/submit.png)
 
 ---
 
@@ -84,7 +84,7 @@ Employees can quickly create IT support requests through a clean, intuitive, and
 
 Employees can track submitted requests, monitor ticket progress, and review their support history.
 
-![My Tickets](docs/screenshots/tickets.png)
+![My Tickets](Code/helpdesk-lite-ai/docs/screenshots/tickets.png)
 
 ---
 
@@ -92,7 +92,7 @@ Employees can track submitted requests, monitor ticket progress, and review thei
 
 The administrator dashboard provides a centralized workspace for managing tickets, monitoring KPIs, reviewing priorities, and organizing IT operations.
 
-![Admin Dashboard](docs/screenshots/dashboard.png)
+![Admin Dashboard](Code/helpdesk-lite-ai/docs/screenshots/dashboard.png)
 
 ---
 
