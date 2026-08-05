@@ -1,6 +1,9 @@
-# 🚀 HelpDesk Lite – AI-Powered IT Support System
+## 🚀 HelpDesk Lite – AI-Powered IT Support System
 
 > A modern IT Help Desk platform built with **React, TypeScript, Vite, and Tailwind CSS**, designed to streamline internal IT support through an intuitive user experience, role-based access, and an AI-ready architecture.
+
+[![Live Demo](https://img.shields.io/badge/🚀-Live%20Demo-success?style=for-the-badge)](https://helpdesk-lite-ai.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/Ahmed-Al-Mohammadi/helpdesk-lite-ai)
 
 ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
@@ -8,8 +11,6 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?logo=framer&logoColor=white)
 
-[![Live Demo](https://img.shields.io/badge/🚀-Live%20Demo-success?style=for-the-badge)](https://helpdesk-lite-ai.vercel.app)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/Ahmed-Al-Mohammadi/helpdesk-lite-ai)
 ---
 
 # 📌 Overview
