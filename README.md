@@ -85,7 +85,7 @@ The system is designed to support future AI integration, including:
 # 📂 Project Structure
 
 ```text
-project/
+helpdesk-lite-ai/
 │
 ├── src/
 │   ├── assets/
